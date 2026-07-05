@@ -1,11 +1,11 @@
 {
-  "name": "Wayland Square Connect TEST",
-  "short_name": "WS TEST",
+  "name": "Access Point RI Connect TEST",
+  "short_name": "APRI TEST",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#d97706",
+  "theme_color": "#1475bd",
   "gcm_sender_id": "103953800507",
   "icons": [
     {
