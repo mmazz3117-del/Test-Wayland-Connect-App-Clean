@@ -1,6 +1,6 @@
 {
-  "name": "Access Point RI Connect TEST",
-  "short_name": "APRI TEST",
+  "name": "Access Point Connect TEST",
+  "short_name": "AP Connect",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
